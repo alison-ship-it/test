@@ -1,0 +1,14 @@
+{
+  "app_name": "dummy-project",
+  "version": "0.1.0",
+  "debug": true,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "dummy_db"
+  },
+  "features": {
+    "enable_signup": true,
+    "max_items_per_page": 25
+  }
+}
